@@ -10,7 +10,7 @@ En la carpeta *NodeMCU* se encuentran el código utilizado en la placa de desarr
 
 ## Arquitectura del Proyecto 📐
 
-En la siguiente imagen se muestra la arquitectura propuesta para que el sistema muestre el uso de los sensores y el led mediante el broker EMQX.
+En la siguiente imagen se muestra la arquitectura propuesta relacionada con tecnología con gestores de clúster para que el sistema haga uso de un led mediante el broker EMQX.
 
 ![Arquitectura de proyecto](https://user-images.githubusercontent.com/40220378/170857850-7572f46e-3107-4aae-84da-dda2a73cdd19.png)
 
