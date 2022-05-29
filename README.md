@@ -1,7 +1,7 @@
 # ![Proyecto IOT NodeMCU8266](https://user-images.githubusercontent.com/40220378/170843779-1dfd5265-59ee-4319-850b-68073664d2c9.png)
 
 
-En este apartado se muestra cómo se desarrolla el despliegue de un Broker EMQX en un clúster de Kubernetes, el cuál conecta una placa NODEMCU8266, utilizando las tecnologías de Docker, K8s, K3S, K3D y Rancher.
+En este apartado se muestra cómo se desarrolla el despliegue de un Broker EMQX en un clúster de Kubernetes, el cuál conecta una placa NODEMCU8266, utilizando las tecnologías de Docker, K3S, K3D y Rancher.
 En la carpeta *NodeMCU* se encuentran el código utilizado en la placa de desarrollo, y en el directorio raíz de este directorio se encuentra el archivo YAML, de despliegue del clúster de Kubernetes.
 
 ## Autores
@@ -16,6 +16,7 @@ En la siguiente imagen se muestra la arquitectura propuesta para que el sistema 
 
 ## Despliegue del Proyecto ⚙
 El despliegue del proyecto se divide en dos:
+
 *Placa NodeMCU8266
 *Broker EMQX
 
